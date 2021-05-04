@@ -1,2 +1,2 @@
 # HumanActivityRecognition
-Infernece code designed for msp430 microcontroller
+DNN Infernece designed for msp430 microcontroller
